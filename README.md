@@ -1,4 +1,4 @@
-# TradeWar Anonymous Benchmark Artifact
+# TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents
 
 This directory is a review-stage artifact for DAI 2026. It provides the
 standalone TradeWar benchmark environment, anonymous six-country
