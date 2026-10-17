@@ -16,6 +16,12 @@ Repository: `https://github.com/ORG/TradeWar-Benchmark`
 
 ---
 
+<p align="center">
+  <img src="docs/asset/tradewar.png"
+       alt="TradeWar concept illustration: delegates sign a trade deal while promises leak from a cracked crate and the EHI gauge falls."
+       width="820">
+</p>
+
 ## Overview
 
 TradeWar evaluates whether natural-language trade negotiations become
