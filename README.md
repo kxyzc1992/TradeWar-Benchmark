@@ -12,7 +12,7 @@ Adaptive LLM Agents*
 Authors: Xiangyu Kong, Ruirui Yang, Xia Hou  
 Venue: DAI 2026
 
-Repository: `https://github.com/ORG/TradeWar-Benchmark`
+Repository: `https://github.com/kxyzc1992/TradeWar-Benchmark`
 
 ---
 
